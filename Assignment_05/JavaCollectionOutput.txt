@@ -1,0 +1,55 @@
+===== Array Example =====
+Array Elements:
+10
+20
+30
+40
+50
+
+===== ArrayList Example =====
+ArrayList: [Apple, Banana, Cherry]
+After removing Banana: [Apple, Cherry]
+Size: 2
+Contains Apple? true
+After removing all elements: []
+
+===== Vector Example =====
+Vector: [100, 200, 300]
+After removing index 1: [100, 300]
+Size: 2
+Element at index 0: 100
+After adding 400: [100, 300, 400]
+Contains 300? true
+Capacity: 10
+
+===== String Example =====
+str1 = Student
+str2 = Java
+Length: 7
+Uppercase: STUDENT
+Lowercase: student
+Character at index 2: u
+Substring (1,4): tude
+Equals 'Student'? true
+Contains 'den'? true
+Replace: Java
+
+===== StringBuffer Example =====
+Original: Hello World!
+After Append: Hello World! Hi
+After Insert: Hello Java World! Hi
+After Replace: Hi Java World! Hi
+After Delete: Hi World! Hi
+After Reverse: iH !dlroW iH
+Capacity: 28
+Length: 11
+Character at index 1: i
+After setCharAt(): HA World! Hi
+After deleteCharAt(): H World! Hi
+
+===== StringTokenizer Example =====
+Tokens:
+Java
+Python
+C++
+JavaScript
