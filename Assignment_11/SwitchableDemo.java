@@ -3,7 +3,7 @@ interface Switchable {
 
     void turnOff();
 }
-
+/
 class Light implements Switchable {
     public void turnOn() {
         System.out.println("Light is ON");
